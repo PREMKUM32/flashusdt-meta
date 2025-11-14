@@ -1,0 +1,11 @@
+{
+  "name": "Flash USDT",
+  "symbol": "FUSDT",
+  "type": "trc20",
+  "decimals": 0,
+  "description": "Flash USDT (FUSDT) is a zero-decimal gaming asset with temporary validity and multi-transfer support.",
+  "website": "https://flashusdt-meta.github.io",
+  "explorer": "https://tronscan.org/#/contract/TZ1sAGh2H5B7iVp52nsnp3Un7FxPocPQVr",
+  "status": "active",
+  "id": "TZ1sAGh2H5B7iVp52nsnp3Un7FxPocPQVr"
+}
